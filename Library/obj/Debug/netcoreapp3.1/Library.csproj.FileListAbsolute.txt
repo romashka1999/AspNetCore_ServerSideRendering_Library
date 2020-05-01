@@ -414,3 +414,4 @@ C:\Users\Romana1\Desktop\c#\Library\Library\obj\Debug\netcoreapp3.1\Library.MvcA
 C:\Users\Romana1\Desktop\c#\Library\Library\obj\Debug\netcoreapp3.1\Library.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Romana1\Desktop\c#\Library\Library\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
 C:\Users\Romana1\Desktop\c#\Library\Library\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
+C:\Users\Romana1\Desktop\c#\Library\Library\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
